@@ -1,1 +1,1 @@
-freaky =  # set to one if you want to break on freaky
+freaky = 0 # set to one if you want to break on freaky
