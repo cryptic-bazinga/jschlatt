@@ -8,12 +8,21 @@ for x in range(0,100):
     if jschlatt > 50:
         print("i just lost my dawg")
     elif jschlatt == 69:
-        print("freaky")
+        if config.evyater == 1:
+            print("I LOVE EVYATER!!!")
+        else:
+            print("freaky")
         if config.freaky == 1:
             break
     elif jschlatt == 42:
-        print("freaky")
+        if config.evyater == 1:
+            print("I LOVE EVYATER!!!")
+        else:
+            print("freaky")
         if config.freaky == 1:
             break
     else:
-        print("nope still have my dawg")
+        if config.fish == 1:
+            print("IM A MASTER BAITER")
+        else:
+            print("nope still have my dawg")
