@@ -2,7 +2,7 @@
 import random
 import config
 jschlatt = 0
-for x in range(0,100):
+for x in range(0,config.loops):
     jschlatt = jschlatt =random.randint(1,100)
     print(jschlatt)
     if jschlatt > 50:
@@ -21,8 +21,10 @@ for x in range(0,100):
             print("freaky")
         if config.freaky == 1:
             break
+    elif jschlatt == 32:
+        print("Skibidi bop bop bop yes yes skibidi bododop beep beep idk")
     else:
         if config.fish == 1:
-            print("IM A MASTER BAITER")
+            print("IM A MASTER FISHER")
         else:
             print("nope still have my dawg")
