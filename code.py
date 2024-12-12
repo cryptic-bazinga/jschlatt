@@ -4,7 +4,7 @@ import config
 jschlatt = 0
 for x in range(0,config.loops):
     jschlatt = jschlatt =random.randint(1,100)
-    print(jschlatt)
+    #print(jschlatt)
     if jschlatt > 50:
         print("i just lost my dawg")
     elif jschlatt == 69:
