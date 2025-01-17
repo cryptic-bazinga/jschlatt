@@ -25,6 +25,9 @@ for x in range(0,config.loops):
         print("Skibidi bop bop bop yes yes skibidi bododop beep beep idk")
     elif jschlatt == 5:
         print("it is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife")
+    elif jschlatt == 1:
+        print("im bouta bust")
+        break
     else:
         if config.fish == 1:
             print("IM A MASTER FISHER")
