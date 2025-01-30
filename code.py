@@ -13,7 +13,10 @@ for x in range(0,config.loops):
         else:
             print("freaky")
         if config.freaky == 1:
-            break
+            print("AHHH HELP")
+    elif jschlatt == 57:
+        print("ADAM IS A HOMOSEXUAL CONFIRMED")
+        break
     elif jschlatt == 42:
         if config.evyater == 1:
             print("I LOVE EVYATER!!!")
@@ -27,7 +30,7 @@ for x in range(0,config.loops):
         print("it is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife")
     elif jschlatt == 1:
         print("im bouta bust")
-        break
+        
     else:
         if config.fish == 1:
             print("IM A MASTER FISHER")
